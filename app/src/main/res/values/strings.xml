@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hom2WorkjJva2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">user_name\n</string>
+    <string name="age">age\n</string>
+    <string name="email">email</string>
+    <string name="password">possword\n</string>
+    <string name="continue_s">подолжить\n</string>
+    <string name="text4">text4</string>
+    <string name="text3">text3</string>
+    <string name="user_name2">user_name2\n</string>
+    <string name="age2">age2</string>
+    <string name="email2">email2</string>
+    <string name="password2">password2\n</string>
+    <string name="continue_2">continue2\n</string>
+</resources>
